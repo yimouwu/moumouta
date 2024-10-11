@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-![Yimou's GitHub stats](https://github-readme-stats.vercel.app/api?username=moumouta&show_icons=true&theme=transparent) [![Yimou's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moumouta)](https://github.com/moumouta/github-readme-stats)
-<!--
+![Yimou's GitHub stats](https://github-readme-stats.vercel.app/api?username=moumouta&show_icons=true&theme=transparent) 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moumouta)](https://github.com/anuraghazra/github-readme-stats)
 **moumouta/moumouta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
