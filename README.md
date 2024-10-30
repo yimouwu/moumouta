@@ -2,8 +2,8 @@
 
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=moumouta&show_icons=true&theme=transparent" alt="Yimou's GitHub stats" style="width: 47%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moumouta" style="width: 47%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yimouwu&show_icons=true&theme=transparent" alt="Yimou's GitHub stats" style="width: 47%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yimouwu" style="width: 47%;">
 </div>
 
 <!--
